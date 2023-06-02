@@ -1,0 +1,4 @@
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/HamidNik1/repo2.git
+	branch = branch1
